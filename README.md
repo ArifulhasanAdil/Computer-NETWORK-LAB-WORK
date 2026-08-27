@@ -4,7 +4,7 @@
 
 ## 🎓 Course
 
-**Computer Networks Laboratory — 7th Semester**
+**Computer Networks Lab — 7th Semester**
 
 ## 🛠️ Tools & Technologies
 
